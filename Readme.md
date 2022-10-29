@@ -15,10 +15,10 @@
 
 ## 📌 Key Takeaways
 
-✔️ Structuring HTML and CSS Project
-✔️ Using Flexbox in CSS
-✔️ How to position elements on a webpage
-✔️ Using Media queries to make it responsive
-✔️ Using psuedo selectors
+    ✔️ Structuring HTML and CSS Project
+    ✔️ Using Flexbox in CSS
+    ✔️ How to position elements on a webpage
+    ✔️ Using Media queries to make it responsive
+    ✔️ Using psuedo selectors
 
 > This project took around _**11 hours**_ to complete.
